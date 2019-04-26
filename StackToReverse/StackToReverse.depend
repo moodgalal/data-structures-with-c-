@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480249658 source:f:\my programming work\c++ projects\data structure\stacktoreverse\main.cpp
+	<iostream>
+	<string>
+	<stack>
+

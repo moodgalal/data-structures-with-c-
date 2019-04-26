@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472771492 source:f:\my programming work\c++ projects\data structure\checkforbalancedparentheses\main.cpp
+	<iostream>
+	<string>
+	<stack>
+

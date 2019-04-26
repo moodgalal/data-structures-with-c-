@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476188149 source:f:\my programming work\c++ projects\data structure\bst-breadth-first\main.cpp
+	<iostream>
+	<queue>
+

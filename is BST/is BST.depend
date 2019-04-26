@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1484734300 source:f:\my programming work\c++ projects\algorithms\is bst\main.cpp
+	<iostream>
+	<limits>
+

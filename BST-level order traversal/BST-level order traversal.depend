@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1484722803 source:f:\my programming work\c++ projects\algorithms\bst-level order traversal\main.cpp
+	<iostream>
+	<queue>
+
